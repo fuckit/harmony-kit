@@ -1,6 +1,6 @@
-# JavaScript Standards
+# Harmony JavaScript Standards
 
-This is a guide for writing and understanding Harmony JavaScript code. Not that many places or browsers appreciate its powerful syntax yet but we're cracking into it right now, no problem. Inspiration for this effort is primarily [Lars Bak](//en.wikipedia.org/wiki/Lars_Bak_(computer_programmer), Ryan Dahl, Isaacs, substack, tj and many others. 
+This is a guide for writing and understanding ECMAScript 6 Harmony JavaScript code. Not that many places or browsers appreciate its powerful syntax yet but we're cracking into it right now, no problem. Inspiration for this effort is primarily [Lars Bak](//en.wikipedia.org/wiki/Lars_Bak_(computer_programmer), Ryan Dahl, Isaacs, tj, substack and many others. 
 
 You are encouraged to fork this repository and make adjustments according to your preferences.
 
@@ -32,6 +32,9 @@ generator objects
 or just generator parsing
 `--harmony-generators`
 
+## Understanding Syntax
+
+next thing i want throw down some definitions and examples, especially yield. plus there's a bunch of other stuff that needs to go up here.
 
 ## No License. Cut that shit out.
 
