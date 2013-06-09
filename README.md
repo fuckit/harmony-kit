@@ -1,6 +1,6 @@
 # Harmony JavaScript Standards
 
-This is a guide for writing and understanding ECMAScript 6 Harmony JavaScript code. Not that many places or browsers appreciate its powerful syntax yet but we're cracking into it right now, no problem. Inspiration for this effort is primarily [Lars Bak](//en.wikipedia.org/wiki/Lars_Bak_(computer_programmer), Ryan Dahl, Isaacs, tj, substack and many others. 
+This is a guide for writing and understanding ECMAScript 6 Harmony JavaScript code. Not that many places or browsers appreciate its powerful syntax yet but we're cracking into it right now, no problem. Inspiration for this effort is primarily <a href='//en.wikipedia.org/wiki/Lars_Bak_(computer_programmer)' target='_blank'>Lars Bak</a>, Ryan Dahl, Isaacs, tj, substack and many others. 
 
 You are encouraged to fork this repository and make adjustments according to your preferences.
 
