@@ -17,19 +17,19 @@ getters and setters:
 `--harmony-collections` 
 `--expose-gc`
 
-typof
+typof:
 `--harmony-typeof`
 
-proxy
+proxy:
 `--harmony-proxies --allow-natives-syntax`
 
-generator iteration
+generator iteration:
 `--harmony-generators --expose-gc`
 
-generator objects
+generator objects:
 `--harmony-generators --harmony-scoping --allow-natives-syntax`
 
-or just generator parsing
+or just generator parsing:
 `--harmony-generators`
 
 ## Understanding Syntax
