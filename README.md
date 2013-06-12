@@ -34,8 +34,6 @@ or just generator parsing:
 
 ## Understanding Syntax
 
-next thing i want throw down some definitions and examples, especially yield. plus there's a bunch of other stuff that needs to go up here.
+[The Yehuda Katz Article](https://gist.github.com/wycats/51c96e3adcdb3a68cbc3), March 2013, 
 
-## No License. Cut that shit out.
-
-This software is unlicensed. There's no need to write MIT on your repos.
+[Tracking V8, Chromium Code Review](https://codereview.chromium.org/all)
