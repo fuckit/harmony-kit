@@ -1,3 +1,5 @@
+#[the harmony module loader and some ES6 Polyfill nonsense is here!]
+
 # Harmony JavaScript Kit
 
 This repo is for figuring out ECMAScript 6 Harmony JavaScript code. Not that many places or browsers appreciate its powerful syntax yet but we're cracking into it right now, no problem. Inspiration for this effort is primarily <a href='//en.wikipedia.org/wiki/Lars_Bak_(computer_programmer)' target='_blank'>Lars Bak</a>, Ryan Dahl, Isaacs, tj, substack and many others. 
