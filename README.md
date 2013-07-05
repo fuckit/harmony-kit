@@ -1,4 +1,4 @@
-#[the harmony module loader and some ES6 Polyfill nonsense is here!]
+#[the harmony module loader and some ES6 Polyfill nonsense is here!](https://github.com/ModuleLoader/es6-module-loader)
 
 # Harmony JavaScript Kit
 
